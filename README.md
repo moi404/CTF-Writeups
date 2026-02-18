@@ -55,3 +55,10 @@ Each room follows a structured approach:
 ---
 
 > Consistency beats intensity. Keep hacking. 🔥
+>
+> ```
+## 📱 Follow me
+
+[![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://www.linkedin.com/in/wilsontessoh)
+[![Facebook](https://cdn-icons-png.flaticon.com/24/733/733547.png)]([https://www.facebook.com/tonprofil](https://www.facebook.com/people/Wilson-Tessoh/61585829171377/))
+[![Instagram](https://cdn-icons-png.flaticon.com/24/2111/2111463.png)]([https://www.instagram.com/tonprofil](https://www.instagram.com/wilson_tessoh/))
