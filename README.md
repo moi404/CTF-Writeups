@@ -11,17 +11,6 @@ This repository contains structured write-ups from:
 
 ---
 
-## 🧠 Methodology
-
-Each write-up follows this structure:
-
-1. 🔍 Enumeration  
-2. ⚔️ Exploitation  
-3. 🔐 Privilege Escalation  
-4. 📚 Lessons Learned  
-
----
-
 ## 🛠 Tools Frequently Used
 
 - Nmap  
@@ -39,6 +28,30 @@ Each write-up follows this structure:
 | Hack The Box | 0        |
 | TryHackMe    | 1        |
 
+---
+
+## 🧠 Methodology
+
+Each room follows a structured approach:
+
+1. 🔍 Enumeration  
+   - Nmap scanning  
+   - Service detection  
+   - Directory brute-forcing  
+
+2. ⚔️ Exploitation  
+   - Vulnerability identification  
+   - Exploit selection  
+   - Manual testing  
+
+3. 🔐 Privilege Escalation  
+   - Linux enumeration (LinPEAS)  
+   - Windows enumeration (WinPEAS)  
+
+4. 📚 Lessons Learned  
+   - Key vulnerabilities  
+   - Security misconfigurations  
+   - Defensive recommendations
 ---
 
 > Consistency beats intensity. Keep hacking. 🔥
