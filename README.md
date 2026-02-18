@@ -25,8 +25,8 @@ This repository contains structured write-ups from:
 
 | Platform     | Completed |
 |-------------|------------|
-| Hack The Box | 0        |
-| TryHackMe    | 1        |
+| Hack The Box |    < 0 >  |
+| TryHackMe    |   < 1 >   |
 
 ---
 
