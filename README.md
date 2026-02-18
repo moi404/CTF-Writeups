@@ -5,9 +5,9 @@ A structured collection of my Capture The Flag (CTF) write-ups including challen
 Welcome to my cybersecurity lab journey.
 
 This repository contains structured write-ups from:
-- 🔴 Hack The Box
-- 🔵 TryHackMe
-- 🟢 Other CTF Platforms
+- 🔴 Hack The Box    ![Platform](https://img.shields.io/badge/Platform-HackTheBox-red)
+- 🔵 TryHackMe    ![Platform](https://img.shields.io/badge/Platform-TryHackMe-blue)
+- 🟢 Other CTF Platforms    ![Focus](https://img.shields.io/badge/Focus-Penetration%20Testing-green)
 
 ---
 
